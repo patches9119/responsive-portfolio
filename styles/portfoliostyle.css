@@ -13,18 +13,19 @@ div { padding: 0px; margin: 0px; }
   }
 
   .container1 {
-    background-color: white;
     float: left;
-    padding-left: 25px;
-    margin-left: 25px;
-    padding-bottom: 25px;
+    margin-left: 0.5rem;
   }
   .container2 {
-    background-color: white;
     float: right;
-    padding-right: 25px;
-    margin-right: 25px;
-    padding-bottom: 25px;
+    margin-right: 0.5rem;
+  }
+
+  .cont {
+    margin: 0.5rem;
+    background-color: white;
+    padding: 1rem;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   }
   
 
